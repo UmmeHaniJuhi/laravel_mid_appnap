@@ -63,7 +63,7 @@
                         
                             <thead>
                                 <tr>
-                                <td>Id</td>
+                                <td>Product Id</td>
                                 <td>Name</td>
                                 <td>Catagory</td> 
                                 <td>Code</td>                                  

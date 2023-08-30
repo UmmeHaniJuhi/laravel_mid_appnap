@@ -19,11 +19,15 @@
         {
             color: black;
         }
+        .panel-title
+        {
+            padding-top: 50px;
+        }
         #example-1
         {
             margin: auto;
             text-align: center;
-            margin-top: 30px;
+            margin-top: 10px;
             color: white;
         }
 
@@ -60,7 +64,7 @@
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <div class="panel-title">
-                        Manage Categories
+                       <h3>Manage Categories</h2> 
                     </div>
                 </div>
                 <div class="panel-body">
